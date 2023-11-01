@@ -1,0 +1,11 @@
+C:\Users\Emerson Humberto\Desktop\Ecommerce\Ecommerce.DTO\bin\Debug\net7.0\Ecommerce.DTO.deps.json
+C:\Users\Emerson Humberto\Desktop\Ecommerce\Ecommerce.DTO\bin\Debug\net7.0\Ecommerce.DTO.dll
+C:\Users\Emerson Humberto\Desktop\Ecommerce\Ecommerce.DTO\bin\Debug\net7.0\Ecommerce.DTO.pdb
+C:\Users\Emerson Humberto\Desktop\Ecommerce\Ecommerce.DTO\obj\Debug\net7.0\Ecommerce.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emerson Humberto\Desktop\Ecommerce\Ecommerce.DTO\obj\Debug\net7.0\Ecommerce.DTO.AssemblyInfoInputs.cache
+C:\Users\Emerson Humberto\Desktop\Ecommerce\Ecommerce.DTO\obj\Debug\net7.0\Ecommerce.DTO.AssemblyInfo.cs
+C:\Users\Emerson Humberto\Desktop\Ecommerce\Ecommerce.DTO\obj\Debug\net7.0\Ecommerce.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Emerson Humberto\Desktop\Ecommerce\Ecommerce.DTO\obj\Debug\net7.0\Ecommerce.DTO.dll
+C:\Users\Emerson Humberto\Desktop\Ecommerce\Ecommerce.DTO\obj\Debug\net7.0\refint\Ecommerce.DTO.dll
+C:\Users\Emerson Humberto\Desktop\Ecommerce\Ecommerce.DTO\obj\Debug\net7.0\Ecommerce.DTO.pdb
+C:\Users\Emerson Humberto\Desktop\Ecommerce\Ecommerce.DTO\obj\Debug\net7.0\ref\Ecommerce.DTO.dll

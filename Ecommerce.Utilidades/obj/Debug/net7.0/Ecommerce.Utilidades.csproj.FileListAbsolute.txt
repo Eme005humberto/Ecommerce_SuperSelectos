@@ -1,0 +1,17 @@
+C:\Users\Emerson Humberto\Desktop\Ecommerce\Ecommerce.Utilidades\bin\Debug\net7.0\Ecommerce.Utilidades.deps.json
+C:\Users\Emerson Humberto\Desktop\Ecommerce\Ecommerce.Utilidades\bin\Debug\net7.0\Ecommerce.Utilidades.dll
+C:\Users\Emerson Humberto\Desktop\Ecommerce\Ecommerce.Utilidades\bin\Debug\net7.0\Ecommerce.Utilidades.pdb
+C:\Users\Emerson Humberto\Desktop\Ecommerce\Ecommerce.Utilidades\obj\Debug\net7.0\Ecommerce.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emerson Humberto\Desktop\Ecommerce\Ecommerce.Utilidades\obj\Debug\net7.0\Ecommerce.Utilidades.AssemblyInfoInputs.cache
+C:\Users\Emerson Humberto\Desktop\Ecommerce\Ecommerce.Utilidades\obj\Debug\net7.0\Ecommerce.Utilidades.AssemblyInfo.cs
+C:\Users\Emerson Humberto\Desktop\Ecommerce\Ecommerce.Utilidades\obj\Debug\net7.0\Ecommerce.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\Emerson Humberto\Desktop\Ecommerce\Ecommerce.Utilidades\obj\Debug\net7.0\Ecommerce.Utilidades.dll
+C:\Users\Emerson Humberto\Desktop\Ecommerce\Ecommerce.Utilidades\obj\Debug\net7.0\refint\Ecommerce.Utilidades.dll
+C:\Users\Emerson Humberto\Desktop\Ecommerce\Ecommerce.Utilidades\obj\Debug\net7.0\Ecommerce.Utilidades.pdb
+C:\Users\Emerson Humberto\Desktop\Ecommerce\Ecommerce.Utilidades\obj\Debug\net7.0\ref\Ecommerce.Utilidades.dll
+C:\Users\Emerson Humberto\Desktop\Ecommerce\Ecommerce.Utilidades\bin\Debug\net7.0\Ecommerce.DTO.dll
+C:\Users\Emerson Humberto\Desktop\Ecommerce\Ecommerce.Utilidades\bin\Debug\net7.0\Ecommerce.Modelo.dll
+C:\Users\Emerson Humberto\Desktop\Ecommerce\Ecommerce.Utilidades\bin\Debug\net7.0\Ecommerce.DTO.pdb
+C:\Users\Emerson Humberto\Desktop\Ecommerce\Ecommerce.Utilidades\bin\Debug\net7.0\Ecommerce.Modelo.pdb
+C:\Users\Emerson Humberto\Desktop\Ecommerce\Ecommerce.Utilidades\obj\Debug\net7.0\Ecommerce.Utilidades.csproj.AssemblyReference.cache
+C:\Users\Emerson Humberto\Desktop\Ecommerce\Ecommerce.Utilidades\obj\Debug\net7.0\Ecommerce.Utilidades.csproj.CopyComplete
