@@ -79,3 +79,5 @@ C:\Users\Emerson Humberto\Desktop\Ecommerce\Ecommerce.API\bin\Debug\net7.0\Ecomm
 C:\Users\Emerson Humberto\Desktop\Ecommerce\Ecommerce.API\bin\Debug\net7.0\Ecommerce.Modelo.pdb
 C:\Users\Emerson Humberto\Desktop\Ecommerce\Ecommerce.API\bin\Debug\net7.0\Ecommerce.Repositorio.pdb
 C:\Users\Emerson Humberto\Desktop\Ecommerce\Ecommerce.API\bin\Debug\net7.0\Ecommerce.Utilidades.pdb
+C:\Users\Emerson Humberto\Desktop\Ecommerce\Ecommerce.API\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Emerson Humberto\Desktop\Ecommerce\Ecommerce.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
