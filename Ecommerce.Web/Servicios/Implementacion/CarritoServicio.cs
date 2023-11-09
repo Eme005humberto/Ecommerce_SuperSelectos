@@ -66,7 +66,8 @@ namespace Ecommerce.Web.Servicios.Implementacion
             //devolvemos el carrito
             var carrito = await _localStorageService.GetItemAsync<List<CarritoDTO>>("carrito");
             if (carrito != null)
-                carrito = new List<CarritoDTO>();
+               carrito = new List<CarritoDTO>();
+            return carrito;
         }
 
         public async Task EliminarCarrito(int idProducto)

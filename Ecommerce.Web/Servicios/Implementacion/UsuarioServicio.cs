@@ -21,8 +21,7 @@ namespace Ecommerce.Web.Servicios.Implementacion
             var result = await response.Content.ReadFromJsonAsync<ResponseDTO<SesionDTO>>();
             return result!;//Negammos la posibilidad de que sea nulo
         }
-
-        public async Task<ResponseDTO<UsuarioDTO>> Crear(LoginDTO modelo)
+        public async Task<ResponseDTO<UsuarioDTO>> Crear(UsuarioDTO modelo)
         {
             //Estamos ejecutando un metodo Post y le enviamos un JSON
             var response = await _httpClient.PostAsJsonAsync("Usuario/Crear", modelo);
@@ -30,8 +29,7 @@ namespace Ecommerce.Web.Servicios.Implementacion
             var result = await response.Content.ReadFromJsonAsync<ResponseDTO<UsuarioDTO>>();
             return result!;//Negammos la posibilidad de que sea nulo
         }
-
-        public async Task<ResponseDTO<bool>> Editar(LoginDTO modelo)
+        public async Task<ResponseDTO<bool>> Editar(UsuarioDTO modelo)
         {
             //Estamos ejecutando un metodo Put y le enviamos un JSON
             var response = await _httpClient.PutAsJsonAsync("Usuario/Editar", modelo);

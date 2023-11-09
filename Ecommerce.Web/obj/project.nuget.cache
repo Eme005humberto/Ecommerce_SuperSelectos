@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "i+7606gK85e9LbkTvIhhgypZdFf5abswqFwsU3Drg0btuA2h9jF6vqRu4X6skF4G8+puEjgOsCnZv4+D6xC2RQ==",
+  "dgSpecHash": "nzW4d40BOKjIrl/8Waazw2n89ZfLsG4mhYX1928nyZo9k1fFUHpylkDBmDWKsrvS+QBvk0OZpRmo3bABsY+LJw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Emerson Humberto\\Desktop\\Ecommerce\\Ecommerce.Web\\Ecommerce.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Emerson Humberto\\.nuget\\packages\\blazored.localstorage\\4.4.0\\blazored.localstorage.4.4.0.nupkg.sha512",
     "C:\\Users\\Emerson Humberto\\.nuget\\packages\\blazored.toast\\4.1.0\\blazored.toast.4.1.0.nupkg.sha512",
+    "C:\\Users\\Emerson Humberto\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\currietechnologies.razor.sweetalert2.5.5.0.nupkg.sha512",
     "C:\\Users\\Emerson Humberto\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.13\\microsoft.aspnetcore.authorization.7.0.13.nupkg.sha512",
     "C:\\Users\\Emerson Humberto\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.13\\microsoft.aspnetcore.components.7.0.13.nupkg.sha512",
     "C:\\Users\\Emerson Humberto\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\7.0.13\\microsoft.aspnetcore.components.analyzers.7.0.13.nupkg.sha512",

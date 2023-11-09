@@ -54,7 +54,7 @@ namespace Ecommerce.API.Controllers
             return Ok(response);//Le devolvemos la respuesta
         }
 
-        [HttpPost("Crear/{id:int}")]
+        [HttpPost("Crear")]
         public async Task<IActionResult> Crear([FromBody]UsuarioDTO modelo)
         {
             var response = new ResponseDTO<UsuarioDTO>();
@@ -109,7 +109,7 @@ namespace Ecommerce.API.Controllers
             return Ok(response);//Le devolvemos la respuesta
         }
 
-        [HttpDelete("Eliminar")]
+        [HttpDelete("Eliminar/{Id:int}")]
         public async Task<IActionResult> Eliminar(int Id)
         {
             var response = new ResponseDTO<bool>();
