@@ -2757,11 +2757,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Emerson Humberto\\Desktop\\Ecommerce\\Ecommerce.Servicio\\Ecommerce.Servicio.csproj",
+      "projectUniqueName": "C:\\Users\\Emerson Humberto\\Desktop\\Proyectos\\Ecommerce\\Ecommerce.Servicio\\Ecommerce.Servicio.csproj",
       "projectName": "Ecommerce.Servicio",
-      "projectPath": "C:\\Users\\Emerson Humberto\\Desktop\\Ecommerce\\Ecommerce.Servicio\\Ecommerce.Servicio.csproj",
+      "projectPath": "C:\\Users\\Emerson Humberto\\Desktop\\Proyectos\\Ecommerce\\Ecommerce.Servicio\\Ecommerce.Servicio.csproj",
       "packagesPath": "C:\\Users\\Emerson Humberto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Emerson Humberto\\Desktop\\Ecommerce\\Ecommerce.Servicio\\obj\\",
+      "outputPath": "C:\\Users\\Emerson Humberto\\Desktop\\Proyectos\\Ecommerce\\Ecommerce.Servicio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Emerson Humberto\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2778,17 +2778,17 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Emerson Humberto\\Desktop\\Ecommerce\\Ecommerce.DTO\\Ecommerce.DTO.csproj": {
-              "projectPath": "C:\\Users\\Emerson Humberto\\Desktop\\Ecommerce\\Ecommerce.DTO\\Ecommerce.DTO.csproj"
+            "C:\\Users\\Emerson Humberto\\Desktop\\Proyectos\\Ecommerce\\Ecommerce.DTO\\Ecommerce.DTO.csproj": {
+              "projectPath": "C:\\Users\\Emerson Humberto\\Desktop\\Proyectos\\Ecommerce\\Ecommerce.DTO\\Ecommerce.DTO.csproj"
             },
-            "C:\\Users\\Emerson Humberto\\Desktop\\Ecommerce\\Ecommerce.Model\\Ecommerce.Modelo.csproj": {
-              "projectPath": "C:\\Users\\Emerson Humberto\\Desktop\\Ecommerce\\Ecommerce.Model\\Ecommerce.Modelo.csproj"
+            "C:\\Users\\Emerson Humberto\\Desktop\\Proyectos\\Ecommerce\\Ecommerce.Model\\Ecommerce.Modelo.csproj": {
+              "projectPath": "C:\\Users\\Emerson Humberto\\Desktop\\Proyectos\\Ecommerce\\Ecommerce.Model\\Ecommerce.Modelo.csproj"
             },
-            "C:\\Users\\Emerson Humberto\\Desktop\\Ecommerce\\Ecommerce.Repositorio\\Ecommerce.Repositorio.csproj": {
-              "projectPath": "C:\\Users\\Emerson Humberto\\Desktop\\Ecommerce\\Ecommerce.Repositorio\\Ecommerce.Repositorio.csproj"
+            "C:\\Users\\Emerson Humberto\\Desktop\\Proyectos\\Ecommerce\\Ecommerce.Repositorio\\Ecommerce.Repositorio.csproj": {
+              "projectPath": "C:\\Users\\Emerson Humberto\\Desktop\\Proyectos\\Ecommerce\\Ecommerce.Repositorio\\Ecommerce.Repositorio.csproj"
             },
-            "C:\\Users\\Emerson Humberto\\Desktop\\Ecommerce\\Ecommerce.Utilidades\\Ecommerce.Utilidades.csproj": {
-              "projectPath": "C:\\Users\\Emerson Humberto\\Desktop\\Ecommerce\\Ecommerce.Utilidades\\Ecommerce.Utilidades.csproj"
+            "C:\\Users\\Emerson Humberto\\Desktop\\Proyectos\\Ecommerce\\Ecommerce.Utilidades\\Ecommerce.Utilidades.csproj": {
+              "projectPath": "C:\\Users\\Emerson Humberto\\Desktop\\Proyectos\\Ecommerce\\Ecommerce.Utilidades\\Ecommerce.Utilidades.csproj"
             }
           }
         }

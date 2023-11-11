@@ -65,7 +65,7 @@ namespace Ecommerce.Servicio.Implementacion
         {
             try
             {
-                var consulta = _modeloRepositorio.Consultar(p => p.IdCategoria == id);
+                var consulta = _modeloRepositorio.Consultar(p => p.IdProducto == id);
                 var fromDbModelo = await consulta.FirstOrDefaultAsync();
 
                 //Si encontro un usuario

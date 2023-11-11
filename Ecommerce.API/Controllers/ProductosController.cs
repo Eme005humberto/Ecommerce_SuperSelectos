@@ -37,7 +37,7 @@ namespace Ecommerce.API.Controllers
             }
             return Ok(response);//Le devolvemos la respuesta
         }
-        [HttpGet("Catalogo/{categoria:alpha}/{buscar:alpha?}")]
+        [HttpGet("Catalogo/{categoria}/{buscar?}")]
         public async Task<IActionResult> Catalogo(string categoria,string buscar = "NA")//Buscar por defecto
         {
             var response = new ResponseDTO<List<ProductoDTO>>();
@@ -75,7 +75,7 @@ namespace Ecommerce.API.Controllers
             }
             return Ok(response);//Le devolvemos la respuesta
         }
-        [HttpPost("Crear/{id:int}")]
+        [HttpPost("Crear")]
         public async Task<IActionResult> Crear([FromBody] ProductoDTO modelo)
         {
             var response = new ResponseDTO<ProductoDTO>();
@@ -110,7 +110,7 @@ namespace Ecommerce.API.Controllers
             }
             return Ok(response);//Le devolvemos la respuesta
         }
-        [HttpDelete("Eliminar")]
+        [HttpDelete("Eliminar/{Id:int}")]
         public async Task<IActionResult> Eliminar(int Id)
         {
             var response = new ResponseDTO<bool>();

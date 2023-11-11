@@ -17,7 +17,7 @@ namespace Ecommerce.API.Controllers
             _categoriaServicio = categoriaServicio;
         }
 
-        [HttpGet("Lista/{rol:alpha?}")]
+        [HttpGet("Lista/{buscar?}")]
         public async Task<IActionResult> Lista(string buscar = "NA")//Buscar por defecto
         {
             var response = new ResponseDTO<List<CategoriaDTO>>();

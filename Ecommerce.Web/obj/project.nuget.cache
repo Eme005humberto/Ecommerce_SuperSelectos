@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nzW4d40BOKjIrl/8Waazw2n89ZfLsG4mhYX1928nyZo9k1fFUHpylkDBmDWKsrvS+QBvk0OZpRmo3bABsY+LJw==",
+  "dgSpecHash": "oZsEcqHGxQnSIaDs1NXCG/P+hp49ewMPcPlQhK46BSAMuDOExcXLvRMLLHPOh7XLdQVdRwhCOLrv5gSBdqv6fw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Emerson Humberto\\Desktop\\Ecommerce\\Ecommerce.Web\\Ecommerce.Web.csproj",
+  "projectFilePath": "C:\\Users\\Emerson Humberto\\Desktop\\Proyectos\\Ecommerce\\Ecommerce.Web\\Ecommerce.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Emerson Humberto\\.nuget\\packages\\blazored.localstorage\\4.4.0\\blazored.localstorage.4.4.0.nupkg.sha512",
     "C:\\Users\\Emerson Humberto\\.nuget\\packages\\blazored.toast\\4.1.0\\blazored.toast.4.1.0.nupkg.sha512",

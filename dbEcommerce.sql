@@ -47,3 +47,6 @@ Total Decimal(10,2)
 )
 Select * from Usuario
 Insert into Usuario(NombreCompleto,Correo,Clave,Rol)Values('administrador','admin@example.com','123','Administrador')
+
+Insert into Categoria (Nombre) Values('test')
+Select * from Categoria

@@ -12,3 +12,17 @@ C:\Users\Emerson Humberto\Desktop\Ecommerce\Ecommerce.Model\obj\Debug\net7.0\ref
 C:\Users\Emerson Humberto\Desktop\Ecommerce\Ecommerce.Model\bin\Debug\net7.0\Ecommerce.Modelo.runtimeconfig.json
 C:\Users\Emerson Humberto\Desktop\Ecommerce\Ecommerce.Model\obj\Debug\net7.0\Ecommerce.Modelo.csproj.AssemblyReference.cache
 C:\Users\Emerson Humberto\Desktop\Ecommerce\Ecommerce.Model\obj\Debug\net7.0\Ecommerce.Modelo.genruntimeconfig.cache
+C:\Users\Emerson Humberto\Desktop\Proyectos\Ecommerce\Ecommerce.Model\bin\Debug\net7.0\Ecommerce.Modelo.deps.json
+C:\Users\Emerson Humberto\Desktop\Proyectos\Ecommerce\Ecommerce.Model\bin\Debug\net7.0\Ecommerce.Modelo.runtimeconfig.json
+C:\Users\Emerson Humberto\Desktop\Proyectos\Ecommerce\Ecommerce.Model\bin\Debug\net7.0\Ecommerce.Modelo.dll
+C:\Users\Emerson Humberto\Desktop\Proyectos\Ecommerce\Ecommerce.Model\bin\Debug\net7.0\Ecommerce.Modelo.pdb
+C:\Users\Emerson Humberto\Desktop\Proyectos\Ecommerce\Ecommerce.Model\obj\Debug\net7.0\Ecommerce.Modelo.csproj.AssemblyReference.cache
+C:\Users\Emerson Humberto\Desktop\Proyectos\Ecommerce\Ecommerce.Model\obj\Debug\net7.0\Ecommerce.Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emerson Humberto\Desktop\Proyectos\Ecommerce\Ecommerce.Model\obj\Debug\net7.0\Ecommerce.Modelo.AssemblyInfoInputs.cache
+C:\Users\Emerson Humberto\Desktop\Proyectos\Ecommerce\Ecommerce.Model\obj\Debug\net7.0\Ecommerce.Modelo.AssemblyInfo.cs
+C:\Users\Emerson Humberto\Desktop\Proyectos\Ecommerce\Ecommerce.Model\obj\Debug\net7.0\Ecommerce.Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Emerson Humberto\Desktop\Proyectos\Ecommerce\Ecommerce.Model\obj\Debug\net7.0\Ecommerce.Modelo.dll
+C:\Users\Emerson Humberto\Desktop\Proyectos\Ecommerce\Ecommerce.Model\obj\Debug\net7.0\refint\Ecommerce.Modelo.dll
+C:\Users\Emerson Humberto\Desktop\Proyectos\Ecommerce\Ecommerce.Model\obj\Debug\net7.0\Ecommerce.Modelo.pdb
+C:\Users\Emerson Humberto\Desktop\Proyectos\Ecommerce\Ecommerce.Model\obj\Debug\net7.0\Ecommerce.Modelo.genruntimeconfig.cache
+C:\Users\Emerson Humberto\Desktop\Proyectos\Ecommerce\Ecommerce.Model\obj\Debug\net7.0\ref\Ecommerce.Modelo.dll

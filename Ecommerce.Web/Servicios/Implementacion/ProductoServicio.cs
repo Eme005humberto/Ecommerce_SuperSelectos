@@ -14,13 +14,13 @@ namespace Ecommerce.Web.Servicios.Implementacion
 
         public async Task<ResponseDTO<List<ProductoDTO>>> Catalogo(string categoria, string buscar)
         {
-            return await _httpClient.GetFromJsonAsync<ResponseDTO<List<ProductoDTO>>>($"Producto/Catalogo/{categoria}/{buscar}");
+            return await _httpClient.GetFromJsonAsync<ResponseDTO<List<ProductoDTO>>>($"Productos/Catalogo/{categoria}/{buscar}");
         }
 
         public async Task<ResponseDTO<ProductoDTO>> Crear(ProductoDTO modelo)
         {
             //Estamos ejecutando un metodo Post y le enviamos un JSON
-            var response = await _httpClient.PostAsJsonAsync("Producto/Crear", modelo);
+            var response = await _httpClient.PostAsJsonAsync("Productos/Crear", modelo);
             //Nuestra estructura devuelve un Response DTO por lo cual se lo hacemos saber
             var result = await response.Content.ReadFromJsonAsync<ResponseDTO<ProductoDTO>>();
             return result!;//Negammos la posibilidad de que sea nulo
@@ -29,7 +29,7 @@ namespace Ecommerce.Web.Servicios.Implementacion
         public async Task<ResponseDTO<bool>> Editar(ProductoDTO modelo)
         {
             //Estamos ejecutando un metodo Put y le enviamos un JSON
-            var response = await _httpClient.PutAsJsonAsync("Producto/Editar", modelo);
+            var response = await _httpClient.PutAsJsonAsync("Productos/Editar", modelo);
             //Nuestra estructura devuelve un Response DTO por lo cual se lo hacemos saber
             var result = await response.Content.ReadFromJsonAsync<ResponseDTO<bool>>();
             return result!;//Negammos la posibilidad de que sea nulo
@@ -38,17 +38,17 @@ namespace Ecommerce.Web.Servicios.Implementacion
         public async Task<ResponseDTO<bool>> Eliminar(int id)
         {
             //Estamos ejecutando un metodo Post y le enviamos un JSON
-            return await _httpClient.DeleteFromJsonAsync<ResponseDTO<bool>>($"Producto/Eliminar/{id}");
+            return await _httpClient.DeleteFromJsonAsync<ResponseDTO<bool>>($"Productos/Eliminar/{id}");
         }
 
         public async Task<ResponseDTO<List<ProductoDTO>>> Lista(string buscar)
         {
-            return await _httpClient.GetFromJsonAsync<ResponseDTO<List<ProductoDTO>>>($"Producto/Catalogo/{buscar}");
+            return await _httpClient.GetFromJsonAsync<ResponseDTO<List<ProductoDTO>>>($"Productos/Lista/{buscar}");
         }
 
         public async Task<ResponseDTO<ProductoDTO>> Obtener(int id)
         {
-            return await _httpClient.GetFromJsonAsync<ResponseDTO<ProductoDTO>>($"Producto/Obtener/{id}");
+            return await _httpClient.GetFromJsonAsync<ResponseDTO<ProductoDTO>>($"Productos/Obtener/{id}");
         }
     }
 }

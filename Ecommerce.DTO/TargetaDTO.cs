@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ecommerce.Modelo
+namespace Ecommerce.DTO
 {
     public class TargetaDTO
     {
