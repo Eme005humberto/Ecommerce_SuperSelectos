@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "oZsEcqHGxQnSIaDs1NXCG/P+hp49ewMPcPlQhK46BSAMuDOExcXLvRMLLHPOh7XLdQVdRwhCOLrv5gSBdqv6fw==",
+  "dgSpecHash": "951jbIVsgSP+NONNRusG1v/UK9iO5G0dgBXz34qBAgSqYhivat/NTB1+jhMtTXWoWFjv6Yl4tdTfZVKtsgLBzA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Emerson Humberto\\Desktop\\Proyectos\\Ecommerce\\Ecommerce.Web\\Ecommerce.Web.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,7 @@
     "C:\\Users\\Emerson Humberto\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.13\\microsoft.aspnetcore.authorization.7.0.13.nupkg.sha512",
     "C:\\Users\\Emerson Humberto\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.13\\microsoft.aspnetcore.components.7.0.13.nupkg.sha512",
     "C:\\Users\\Emerson Humberto\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\7.0.13\\microsoft.aspnetcore.components.analyzers.7.0.13.nupkg.sha512",
+    "C:\\Users\\Emerson Humberto\\.nuget\\packages\\microsoft.aspnetcore.components.authorization\\7.0.13\\microsoft.aspnetcore.components.authorization.7.0.13.nupkg.sha512",
     "C:\\Users\\Emerson Humberto\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\7.0.13\\microsoft.aspnetcore.components.forms.7.0.13.nupkg.sha512",
     "C:\\Users\\Emerson Humberto\\.nuget\\packages\\microsoft.aspnetcore.components.web\\7.0.13\\microsoft.aspnetcore.components.web.7.0.13.nupkg.sha512",
     "C:\\Users\\Emerson Humberto\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\7.0.13\\microsoft.aspnetcore.components.webassembly.7.0.13.nupkg.sha512",

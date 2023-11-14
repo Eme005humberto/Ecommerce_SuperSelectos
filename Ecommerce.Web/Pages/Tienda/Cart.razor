@@ -5,6 +5,9 @@
 @inject NavigationManager _navServicio
 @using Ecommerce.DTO;
 
+@using Microsoft.AspNetCore.Components.Authorization
+@using System.Security.Claims
+
 <div class="row mt-4">
 
 @*    INFORMACION DE LOS PRODUCTOS AGREGADOS EN EL CARRITO*@
@@ -126,8 +129,8 @@
                     </div>
                 </EditForm>
 
-               @* COMENTAR TODO ESTO*@
-               @*
+              
+               
                 <AuthorizeView>
                     <NotAuthorized>
                         <div class="alert alert-danger mt-2" role="alert">
@@ -135,7 +138,7 @@
                         </div>
                     </NotAuthorized>
                 </AuthorizeView>
-                *@
+               
 
             </div>
         </div>
@@ -147,13 +150,24 @@
                                  //se habilita cuando ha iniciado sesion
 
     private List<CarritoDTO> lista = new List<CarritoDTO>();
-    private decimal  TotalPagar = 0;
+    private decimal?  TotalPagar = 0;
     private TargetaDTO targeta = new TargetaDTO();
+
+
+    [CascadingParameter]
+    private Task<AuthenticationState>authenticationState{ get; set; }
 
     protected override async Task OnInitializedAsync()
     {
         //Obtenemos la lista de nuestro carrito
         lista = await carritoServicio.DevolverCarrito();
+
+        //Lo convertimos en falso
+        var authState = await authenticationState;
+        if (authState.User.Identity.IsAuthenticated)
+        {
+            disabled = false;
+        }
     }
     //Metodo para disminuir o aumentar el producto
     private void Disminuir(int id)
@@ -205,9 +219,12 @@
                 Total = item.Total
             });
         }
+        var authState = await authenticationState;//El usuario esta autenticado si no
+                                                  //no puede procesar pago
+        string IdUsuario = authState.User.Claims.Where(c => c.Type == ClaimTypes.NameIdentifier).Select(c => c.Value).Single();
         VentaDTO modelo = new VentaDTO()
             {
-                IdUsuario = 1,//Valor por defecto
+                IdUsuario = Convert.ToInt32(IdUsuario),//Valor por defecto
                 Total = lista.Sum(i => i.Total),
                 DetalleVenta = detalle
 

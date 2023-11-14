@@ -1,12 +1,35 @@
-﻿<Router AppAssembly="@typeof(App).Assembly">
-    <Found Context="routeData">
-        <RouteView RouteData="@routeData" DefaultLayout="@typeof(MainLayout)" />
-        <FocusOnNavigate RouteData="@routeData" Selector="h1" />
-    </Found>
-    <NotFound>
-        <PageTitle>Not found</PageTitle>
-        <LayoutView Layout="@typeof(MainLayout)">
-            <p role="alert">Sorry, there's nothing at this address.</p>
-        </LayoutView>
-    </NotFound>
-</Router>
+﻿@using Microsoft.AspNetCore.Components.Authorization
+@inject NavigationManager navManager
+@inject AuthenticationStateProvider autoProvider;
+
+<CascadingAuthenticationState>
+    <Router AppAssembly="@typeof(App).Assembly">
+        <Found Context="routeData">
+            @*Vamos a colocar la autorizacion*@
+            <AuthorizeRouteView  RouteData="@routeData" DefaultLayout="@typeof(MainLayout)" >
+                <NotAuthorized>
+                    @*Vamos a validar si el usuario no esta validado lo redirigimos a login*@
+                    @{
+                        if(context.User.Identity?.IsAuthenticated != true)
+                        {
+                            navManager.NavigateTo("/login");
+                            @*Redirigimos al login*@
+                            
+                        }else{
+                            <p class="alert arlet-danger">No esta autorizado para ver esta pagina</p>@*Esta autenticado 
+                            pero no tiene acceso a esta pagina*@
+                        }
+                    }
+                </NotAuthorized>
+            </AuthorizeRouteView>
+
+        </Found>
+        <NotFound>
+            <PageTitle>Not found</PageTitle>
+            <LayoutView Layout="@typeof(MainLayout)">
+                <p role="alert">Sorry, there's nothing at this address.</p>
+            </LayoutView>
+        </NotFound>
+    </Router>
+</CascadingAuthenticationState>
+
