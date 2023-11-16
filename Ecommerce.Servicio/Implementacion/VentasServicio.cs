@@ -33,7 +33,7 @@ namespace Ecommerce.Servicio.Implementacion
                 var dbModelo = _mapper.Map<Venta>(modelo);//Vamos a convertir un usuario
                 var ventaGenerada = await _modeloRepositorio.Registrar(dbModelo);
 
-                if (ventaGenerada.IdVenta != 0)
+                if (ventaGenerada.IdVenta == 0)
                     throw new TaskCanceledException("No se puedo registrar");
                 return _mapper.Map<VentaDTO>(ventaGenerada);
             }

@@ -74,7 +74,7 @@ namespace Ecommerce.API.Controllers
 
 
         [HttpPost("Autorizacion")]
-        public async Task<IActionResult> Crear([FromBody] LoginDTO modelo)
+        public async Task<IActionResult> Autorizacion([FromBody] LoginDTO modelo)
         {
             var response = new ResponseDTO<SesionDTO>();
             try

@@ -16,7 +16,7 @@ namespace Ecommerce.Web.Servicios.Implementacion
         public async Task<ResponseDTO<SesionDTO>> Autorizacion(LoginDTO modelo)
         {
             //Estamos ejecutando un metodo Post y le enviamos un JSON
-            var response = await _httpClient.PostAsJsonAsync("Usuario/Autorizacion",modelo);
+            var response = await _httpClient.PostAsJsonAsync("Usuario/Autorizacion ", modelo);
             //Nuestra estructura devuelve un Response DTO por lo cual se lo hacemos saber
             var result = await response.Content.ReadFromJsonAsync<ResponseDTO<SesionDTO>>();
             return result!;//Negammos la posibilidad de que sea nulo
