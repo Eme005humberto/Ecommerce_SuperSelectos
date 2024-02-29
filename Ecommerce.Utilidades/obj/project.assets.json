@@ -2718,11 +2718,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Emerson Humberto\\Desktop\\Proyectos\\Ecommerce\\Ecommerce.Utilidades\\Ecommerce.Utilidades.csproj",
+      "projectUniqueName": "D:\\Aplicaciones Web\\Ecommerce_SuperSelectos\\Ecommerce.Utilidades\\Ecommerce.Utilidades.csproj",
       "projectName": "Ecommerce.Utilidades",
-      "projectPath": "C:\\Users\\Emerson Humberto\\Desktop\\Proyectos\\Ecommerce\\Ecommerce.Utilidades\\Ecommerce.Utilidades.csproj",
+      "projectPath": "D:\\Aplicaciones Web\\Ecommerce_SuperSelectos\\Ecommerce.Utilidades\\Ecommerce.Utilidades.csproj",
       "packagesPath": "C:\\Users\\Emerson Humberto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Emerson Humberto\\Desktop\\Proyectos\\Ecommerce\\Ecommerce.Utilidades\\obj\\",
+      "outputPath": "D:\\Aplicaciones Web\\Ecommerce_SuperSelectos\\Ecommerce.Utilidades\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Emerson Humberto\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2739,11 +2739,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Emerson Humberto\\Desktop\\Proyectos\\Ecommerce\\Ecommerce.DTO\\Ecommerce.DTO.csproj": {
-              "projectPath": "C:\\Users\\Emerson Humberto\\Desktop\\Proyectos\\Ecommerce\\Ecommerce.DTO\\Ecommerce.DTO.csproj"
+            "D:\\Aplicaciones Web\\Ecommerce_SuperSelectos\\Ecommerce.DTO\\Ecommerce.DTO.csproj": {
+              "projectPath": "D:\\Aplicaciones Web\\Ecommerce_SuperSelectos\\Ecommerce.DTO\\Ecommerce.DTO.csproj"
             },
-            "C:\\Users\\Emerson Humberto\\Desktop\\Proyectos\\Ecommerce\\Ecommerce.Model\\Ecommerce.Modelo.csproj": {
-              "projectPath": "C:\\Users\\Emerson Humberto\\Desktop\\Proyectos\\Ecommerce\\Ecommerce.Model\\Ecommerce.Modelo.csproj"
+            "D:\\Aplicaciones Web\\Ecommerce_SuperSelectos\\Ecommerce.Model\\Ecommerce.Modelo.csproj": {
+              "projectPath": "D:\\Aplicaciones Web\\Ecommerce_SuperSelectos\\Ecommerce.Model\\Ecommerce.Modelo.csproj"
             }
           }
         }
@@ -2783,7 +2783,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

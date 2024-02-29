@@ -3233,11 +3233,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Emerson Humberto\\Desktop\\Proyectos\\Ecommerce\\Ecommerce.API\\Ecommerce.API.csproj",
+      "projectUniqueName": "D:\\Aplicaciones Web\\Ecommerce_SuperSelectos\\Ecommerce.API\\Ecommerce.API.csproj",
       "projectName": "Ecommerce.API",
-      "projectPath": "C:\\Users\\Emerson Humberto\\Desktop\\Proyectos\\Ecommerce\\Ecommerce.API\\Ecommerce.API.csproj",
+      "projectPath": "D:\\Aplicaciones Web\\Ecommerce_SuperSelectos\\Ecommerce.API\\Ecommerce.API.csproj",
       "packagesPath": "C:\\Users\\Emerson Humberto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Emerson Humberto\\Desktop\\Proyectos\\Ecommerce\\Ecommerce.API\\obj\\",
+      "outputPath": "D:\\Aplicaciones Web\\Ecommerce_SuperSelectos\\Ecommerce.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Emerson Humberto\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3254,8 +3254,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Emerson Humberto\\Desktop\\Proyectos\\Ecommerce\\Ecommerce.Servicio\\Ecommerce.Servicio.csproj": {
-              "projectPath": "C:\\Users\\Emerson Humberto\\Desktop\\Proyectos\\Ecommerce\\Ecommerce.Servicio\\Ecommerce.Servicio.csproj"
+            "D:\\Aplicaciones Web\\Ecommerce_SuperSelectos\\Ecommerce.Servicio\\Ecommerce.Servicio.csproj": {
+              "projectPath": "D:\\Aplicaciones Web\\Ecommerce_SuperSelectos\\Ecommerce.Servicio\\Ecommerce.Servicio.csproj"
             }
           }
         }
@@ -3298,7 +3298,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

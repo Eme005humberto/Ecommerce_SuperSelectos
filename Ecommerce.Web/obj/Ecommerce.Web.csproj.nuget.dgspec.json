@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Emerson Humberto\\Desktop\\Proyectos\\Ecommerce\\Ecommerce.Web\\Ecommerce.Web.csproj": {}
+    "D:\\Aplicaciones Web\\Ecommerce_SuperSelectos\\Ecommerce.Web\\Ecommerce.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Emerson Humberto\\Desktop\\Proyectos\\Ecommerce\\Ecommerce.DTO\\Ecommerce.DTO.csproj": {
+    "D:\\Aplicaciones Web\\Ecommerce_SuperSelectos\\Ecommerce.DTO\\Ecommerce.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emerson Humberto\\Desktop\\Proyectos\\Ecommerce\\Ecommerce.DTO\\Ecommerce.DTO.csproj",
+        "projectUniqueName": "D:\\Aplicaciones Web\\Ecommerce_SuperSelectos\\Ecommerce.DTO\\Ecommerce.DTO.csproj",
         "projectName": "Ecommerce.DTO",
-        "projectPath": "C:\\Users\\Emerson Humberto\\Desktop\\Proyectos\\Ecommerce\\Ecommerce.DTO\\Ecommerce.DTO.csproj",
+        "projectPath": "D:\\Aplicaciones Web\\Ecommerce_SuperSelectos\\Ecommerce.DTO\\Ecommerce.DTO.csproj",
         "packagesPath": "C:\\Users\\Emerson Humberto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emerson Humberto\\Desktop\\Proyectos\\Ecommerce\\Ecommerce.DTO\\obj\\",
+        "outputPath": "D:\\Aplicaciones Web\\Ecommerce_SuperSelectos\\Ecommerce.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Emerson Humberto\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,18 +55,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Emerson Humberto\\Desktop\\Proyectos\\Ecommerce\\Ecommerce.Web\\Ecommerce.Web.csproj": {
+    "D:\\Aplicaciones Web\\Ecommerce_SuperSelectos\\Ecommerce.Web\\Ecommerce.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emerson Humberto\\Desktop\\Proyectos\\Ecommerce\\Ecommerce.Web\\Ecommerce.Web.csproj",
+        "projectUniqueName": "D:\\Aplicaciones Web\\Ecommerce_SuperSelectos\\Ecommerce.Web\\Ecommerce.Web.csproj",
         "projectName": "Ecommerce.Web",
-        "projectPath": "C:\\Users\\Emerson Humberto\\Desktop\\Proyectos\\Ecommerce\\Ecommerce.Web\\Ecommerce.Web.csproj",
+        "projectPath": "D:\\Aplicaciones Web\\Ecommerce_SuperSelectos\\Ecommerce.Web\\Ecommerce.Web.csproj",
         "packagesPath": "C:\\Users\\Emerson Humberto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emerson Humberto\\Desktop\\Proyectos\\Ecommerce\\Ecommerce.Web\\obj\\",
+        "outputPath": "D:\\Aplicaciones Web\\Ecommerce_SuperSelectos\\Ecommerce.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Emerson Humberto\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,8 +83,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Emerson Humberto\\Desktop\\Proyectos\\Ecommerce\\Ecommerce.DTO\\Ecommerce.DTO.csproj": {
-                "projectPath": "C:\\Users\\Emerson Humberto\\Desktop\\Proyectos\\Ecommerce\\Ecommerce.DTO\\Ecommerce.DTO.csproj"
+              "D:\\Aplicaciones Web\\Ecommerce_SuperSelectos\\Ecommerce.DTO\\Ecommerce.DTO.csproj": {
+                "projectPath": "D:\\Aplicaciones Web\\Ecommerce_SuperSelectos\\Ecommerce.DTO\\Ecommerce.DTO.csproj"
               }
             }
           }
@@ -123,6 +123,24 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.13, )"
+            },
+            "Microsoft.NET.ILLink.Analyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.100-1.23211.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.100-1.23211.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NET.Sdk.WebAssembly.Pack": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.1, )",
+              "autoReferenced": true
             }
           },
           "imports": [
@@ -139,7 +157,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[7.0.13, 7.0.13]"
+              "version": "[7.0.15, 7.0.15]"
             }
           ],
           "frameworkReferences": {
@@ -147,7 +165,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {

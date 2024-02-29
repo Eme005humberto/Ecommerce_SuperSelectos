@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5iYm+UiAqjuVKPND9d17Gt8qwWu+CJltwklXnVHvwsk9dq2ppQfK7hnmpNtD9ixN4FWElRfPSloOk88MiGvvhQ==",
+  "dgSpecHash": "9X/sofD9xSH8niDmb0P18w8cjyEKJ7Q05L6JSk4r3WiUxebweofSQf+opGOlSk5Kp6GL7a+hSHTzu9PReboZEQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Emerson Humberto\\Desktop\\Proyectos\\Ecommerce\\Ecommerce.Utilidades\\Ecommerce.Utilidades.csproj",
+  "projectFilePath": "D:\\Aplicaciones Web\\Ecommerce_SuperSelectos\\Ecommerce.Utilidades\\Ecommerce.Utilidades.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Emerson Humberto\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Emerson Humberto\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

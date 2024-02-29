@@ -20,3 +20,15 @@ C:\Users\Emerson Humberto\Desktop\Proyectos\Ecommerce\Ecommerce.DTO\obj\Debug\ne
 C:\Users\Emerson Humberto\Desktop\Proyectos\Ecommerce\Ecommerce.DTO\obj\Debug\net7.0\refint\Ecommerce.DTO.dll
 C:\Users\Emerson Humberto\Desktop\Proyectos\Ecommerce\Ecommerce.DTO\obj\Debug\net7.0\Ecommerce.DTO.pdb
 C:\Users\Emerson Humberto\Desktop\Proyectos\Ecommerce\Ecommerce.DTO\obj\Debug\net7.0\ref\Ecommerce.DTO.dll
+D:\Aplicaciones Web\Ecommerce_SuperSelectos\Ecommerce.DTO\bin\Debug\net7.0\Ecommerce.DTO.deps.json
+D:\Aplicaciones Web\Ecommerce_SuperSelectos\Ecommerce.DTO\bin\Debug\net7.0\Ecommerce.DTO.dll
+D:\Aplicaciones Web\Ecommerce_SuperSelectos\Ecommerce.DTO\bin\Debug\net7.0\Ecommerce.DTO.pdb
+D:\Aplicaciones Web\Ecommerce_SuperSelectos\Ecommerce.DTO\obj\Debug\net7.0\Ecommerce.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aplicaciones Web\Ecommerce_SuperSelectos\Ecommerce.DTO\obj\Debug\net7.0\Ecommerce.DTO.AssemblyInfoInputs.cache
+D:\Aplicaciones Web\Ecommerce_SuperSelectos\Ecommerce.DTO\obj\Debug\net7.0\Ecommerce.DTO.AssemblyInfo.cs
+D:\Aplicaciones Web\Ecommerce_SuperSelectos\Ecommerce.DTO\obj\Debug\net7.0\Ecommerce.DTO.csproj.CoreCompileInputs.cache
+D:\Aplicaciones Web\Ecommerce_SuperSelectos\Ecommerce.DTO\obj\Debug\net7.0\Ecommerce.DTO.sourcelink.json
+D:\Aplicaciones Web\Ecommerce_SuperSelectos\Ecommerce.DTO\obj\Debug\net7.0\Ecommerce.DTO.dll
+D:\Aplicaciones Web\Ecommerce_SuperSelectos\Ecommerce.DTO\obj\Debug\net7.0\refint\Ecommerce.DTO.dll
+D:\Aplicaciones Web\Ecommerce_SuperSelectos\Ecommerce.DTO\obj\Debug\net7.0\Ecommerce.DTO.pdb
+D:\Aplicaciones Web\Ecommerce_SuperSelectos\Ecommerce.DTO\obj\Debug\net7.0\ref\Ecommerce.DTO.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Emerson Humberto\\Desktop\\Proyectos\\Ecommerce\\Ecommerce.DTO\\Ecommerce.DTO.csproj": {}
+    "D:\\Aplicaciones Web\\Ecommerce_SuperSelectos\\Ecommerce.DTO\\Ecommerce.DTO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Emerson Humberto\\Desktop\\Proyectos\\Ecommerce\\Ecommerce.DTO\\Ecommerce.DTO.csproj": {
+    "D:\\Aplicaciones Web\\Ecommerce_SuperSelectos\\Ecommerce.DTO\\Ecommerce.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emerson Humberto\\Desktop\\Proyectos\\Ecommerce\\Ecommerce.DTO\\Ecommerce.DTO.csproj",
+        "projectUniqueName": "D:\\Aplicaciones Web\\Ecommerce_SuperSelectos\\Ecommerce.DTO\\Ecommerce.DTO.csproj",
         "projectName": "Ecommerce.DTO",
-        "projectPath": "C:\\Users\\Emerson Humberto\\Desktop\\Proyectos\\Ecommerce\\Ecommerce.DTO\\Ecommerce.DTO.csproj",
+        "projectPath": "D:\\Aplicaciones Web\\Ecommerce_SuperSelectos\\Ecommerce.DTO\\Ecommerce.DTO.csproj",
         "packagesPath": "C:\\Users\\Emerson Humberto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emerson Humberto\\Desktop\\Proyectos\\Ecommerce\\Ecommerce.DTO\\obj\\",
+        "outputPath": "D:\\Aplicaciones Web\\Ecommerce_SuperSelectos\\Ecommerce.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Emerson Humberto\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

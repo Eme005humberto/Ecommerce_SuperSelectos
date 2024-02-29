@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "951jbIVsgSP+NONNRusG1v/UK9iO5G0dgBXz34qBAgSqYhivat/NTB1+jhMtTXWoWFjv6Yl4tdTfZVKtsgLBzA==",
+  "dgSpecHash": "z/AemJnCaWcjsdd08hDo5p+MHEMzs57LXig2/AIWzfTp0FX5Ad92DsyDJkQ88ZEn1HGgfJ4/XYjLMUKnx3NaNA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Emerson Humberto\\Desktop\\Proyectos\\Ecommerce\\Ecommerce.Web\\Ecommerce.Web.csproj",
+  "projectFilePath": "D:\\Aplicaciones Web\\Ecommerce_SuperSelectos\\Ecommerce.Web\\Ecommerce.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Emerson Humberto\\.nuget\\packages\\blazored.localstorage\\4.4.0\\blazored.localstorage.4.4.0.nupkg.sha512",
     "C:\\Users\\Emerson Humberto\\.nuget\\packages\\blazored.toast\\4.1.0\\blazored.toast.4.1.0.nupkg.sha512",
@@ -32,10 +32,13 @@
     "C:\\Users\\Emerson Humberto\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\Emerson Humberto\\.nuget\\packages\\microsoft.jsinterop\\7.0.13\\microsoft.jsinterop.7.0.13.nupkg.sha512",
     "C:\\Users\\Emerson Humberto\\.nuget\\packages\\microsoft.jsinterop.webassembly\\7.0.13\\microsoft.jsinterop.webassembly.7.0.13.nupkg.sha512",
+    "C:\\Users\\Emerson Humberto\\.nuget\\packages\\microsoft.net.illink.analyzers\\7.0.100-1.23211.1\\microsoft.net.illink.analyzers.7.0.100-1.23211.1.nupkg.sha512",
+    "C:\\Users\\Emerson Humberto\\.nuget\\packages\\microsoft.net.illink.tasks\\7.0.100-1.23211.1\\microsoft.net.illink.tasks.7.0.100-1.23211.1.nupkg.sha512",
+    "C:\\Users\\Emerson Humberto\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.1\\microsoft.net.sdk.webassembly.pack.8.0.1.nupkg.sha512",
     "C:\\Users\\Emerson Humberto\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512",
     "C:\\Users\\Emerson Humberto\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\Emerson Humberto\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
-    "C:\\Users\\Emerson Humberto\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.13\\microsoft.netcore.app.runtime.mono.browser-wasm.7.0.13.nupkg.sha512"
+    "C:\\Users\\Emerson Humberto\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.15\\microsoft.netcore.app.runtime.mono.browser-wasm.7.0.15.nupkg.sha512"
   ],
   "logs": []
 }
